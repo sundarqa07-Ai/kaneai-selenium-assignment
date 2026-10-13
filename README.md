@@ -15,6 +15,7 @@ Steps:
  
 Android: Samsung Galaxy S25, Android 15
 iOS: iPhone 16, iOS 18
+
  
 Steps:
 1. Open the TestMu AI Sample App.
