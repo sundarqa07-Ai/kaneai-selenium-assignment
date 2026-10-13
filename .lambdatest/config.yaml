@@ -1,0 +1,8 @@
+# LambdaTest Configuration
+ 
+# Project and folder configuration
+project_id: "01M4T73ZNXY92W17139WBWJJKD"
+folder_id: "01M4T73ZTWN69DFTEV53K4N4B9"
+ 
+# Test URL for automation
+# test_url: "https://ecommerce-playground.lambdatest.io/"
